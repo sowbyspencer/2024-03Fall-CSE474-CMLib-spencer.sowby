@@ -73,4 +73,4 @@ CM Repo/
 
 ---
 
-OpenAI, "Document generated with help of ChatGPT," ChatGPT, https://chatgpt.com/share/66fc781b-72b4-8001-8eae-5cf3e2e53048 (accessed Oct. 1, 2024).
+OpenAI, README.md "Document generated with help of ChatGPT," ChatGPT, https://chatgpt.com/share/66fc781b-72b4-8001-8eae-5cf3e2e53048 (accessed Oct. 1, 2024).
