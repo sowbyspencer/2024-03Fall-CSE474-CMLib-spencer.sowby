@@ -4,7 +4,7 @@
 
 Prepared By: [your company]  
 Prepared For: [customer]  
-Approved by: Scott Wood ****************\_\_\_****************  
+Approved by: Scott Wood ******\*\*\*\*******\_\_\_******\*\*\*\*******  
 Authors: McKay Larman, Spencer Sowby
 
 ---
@@ -19,43 +19,43 @@ Authors: McKay Larman, Spencer Sowby
 
 ## Table of Contents
 
-1. Revision History
-2. Table of Contents
-3. Table of Figures
-4. [Purpose and scope](#purpose-and-scope)
-5. [Definitions and acronyms](#definitions-and-acronyms)
-6. [Reference documents](#reference-documents)
-7. [SQA plan overview](#sqa-plan-overview)
-   - 4.1. Organization and independence
-   - 4.2. Software product risk
-   - 4.3. Tools
-   - 4.4. Standards, practices, and conventions
-   - 4.5. Effort, resources, and schedule
-8. [Activities, outcomes, and tasks](#activities-outcomes-and-tasks)
-   - 5.1. Product assurance
-     - 5.1.1. Evaluate plans for conformance
-     - 5.1.2. Evaluate product for conformance
-     - 5.1.3. Evaluate product for acceptability
-     - 5.1.4. Evaluate product life cycle support for conformance
-     - 5.1.5. Measure products
-   - 5.2. Process assurance
-     - 5.2.1. Evaluate life cycle processes for conformance
-     - 5.2.2. Evaluate environments for conformance
-     - 5.2.3. Evaluate subcontractor processes for conformance
-     - 5.2.4. Measure processes
-     - 5.2.5. Assess staff skill and knowledge
-9. [Additional considerations](#additional-considerations)
-   - 6.1. Contract review
-   - 6.2. Quality measurement
-   - 6.3. Waivers and deviations
-   - 6.4. Task repetition
-   - 6.5. Risks to performing SQA
-   - 6.6. Communications strategy
-   - 6.7. Non-conformance process
-10. [SQA records](#sqa-records)
-    - 7.1. Analyze, identify, collect, file, maintain, and dispose
-    - 7.2. Availability of records
-11. [References](#references)
+- Revision History
+- Table of Contents
+- Table of Figures
+- 1. [Purpose and scope](#purpose-and-scope)
+- 2. [Definitions and acronyms](#definitions-and-acronyms)
+- 3. [Reference documents](#reference-documents)
+- 4. [SQA plan overview](#sqa-plan-overview)
+  - 4.1. Organization and independence
+  - 4.2. Software product risk
+  - 4.3. Tools
+  - 4.4. Standards, practices, and conventions
+  - 4.5. Effort, resources, and schedule
+- 5. [Activities, outcomes, and tasks](#activities-outcomes-and-tasks)
+  - 5.1. Product assurance
+    - 5.1.1. Evaluate plans for conformance
+    - 5.1.2. Evaluate product for conformance
+    - 5.1.3. Evaluate product for acceptability
+    - 5.1.4. Evaluate product life cycle support for conformance
+    - 5.1.5. Measure products
+  - 5.2. Process assurance
+    - 5.2.1. Evaluate life cycle processes for conformance
+    - 5.2.2. Evaluate environments for conformance
+    - 5.2.3. Evaluate subcontractor processes for conformance
+    - 5.2.4. Measure processes
+    - 5.2.5. Assess staff skill and knowledge
+- 6. [Additional considerations](#additional-considerations)
+  - 6.1. Contract review
+  - 6.2. Quality measurement
+  - 6.3. Waivers and deviations
+  - 6.4. Task repetition
+  - 6.5. Risks to performing SQA
+  - 6.6. Communications strategy
+  - 6.7. Non-conformance process
+- 7. [SQA records](#sqa-records)
+  - 7.1. Analyze, identify, collect, file, maintain, and dispose
+  - 7.2. Availability of records
+- [References](#references)
 
 ---
 
