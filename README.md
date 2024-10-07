@@ -57,17 +57,11 @@ CM Repo/
 | ├── Deliveries/
 │ ├── Reports/
 │ ├── Setup/
-| ├── Software Engineering/
-│ ├── Source Code/
-│ └── System Engineering/
+│ └── Source Code/
 └── Project Library/
-│ ├── 3rd Party/
-| ├── Deliveries/
 | ├── Project Documents/
 │ ├── Reports/
-│ ├── Setup/
 | ├── Software Engineering/
-│ ├── Source Code/
 │ └── System Engineering/
 ```
 
